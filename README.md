@@ -1,5 +1,9 @@
 # Reduced-Parameter Water Quality Index (WQI) Prediction
 
+## 🚀 Live Demo
+
+[Click here to use the live WQI Prediction App](https://wqireducedmodel-hee8bndumrhsqzmtlheblu.streamlit.app/)
+
 A Streamlit machine-learning application that explores whether a smaller set of water-quality measurements can predict a Water Quality Index (WQI).
 
 > **Important:** The current app generates synthetic river data and trains its Random Forest models on that simulated data. The reported performance is not validation on real river measurements.
