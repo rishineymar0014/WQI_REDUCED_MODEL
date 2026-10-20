@@ -82,7 +82,3 @@ st.info(
     "Poor <75, Very poor <100, Unfit ≥100."
 )
 
-st.warning(
-    "This version uses simulated data. Predictions are for demonstration "
-    "only and are not a validated assessment of real river-water safety."
-)
